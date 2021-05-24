@@ -1,5 +1,5 @@
 #setting the directory for work
-setwd("D:\\Jigsaw Academy Course\\Data Wrangling and EDA with R\\T1. Data Preprocessing - Data Exploration\\T1. Data Preprocessing - Data Exploration - code snippets")
+setwd("D:\\Jigsaw Academy Course\\Data Wrangling and EDA with R")
 #reading data and replacing blank spaces with NA
 cr<-read.csv("Credit.csv",na.strings=c("",NA))
 
